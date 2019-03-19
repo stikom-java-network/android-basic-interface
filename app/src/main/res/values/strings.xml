@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meetup1</string>
+    <string name="judul">Atta Bledek</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamat_asli">Jl. Kedung Baruk no 69</string>
+    <string name="kampus">Kampus</string>
+    <string name="kampus_asli">Institut Bisnis dan Informatika STIKOM BALI</string>
+    <string name="button1">Tampol</string>
+    <string name="button2">Antem</string>
+
+    <string name="coba">Cobaaaa 2</string>
+
+</resources>
